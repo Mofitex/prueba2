@@ -2,6 +2,7 @@
   "pueblos": [
     { "id": 1, "pueblo": "001 Lan Fan" },
     { "id": 2, "pueblo": "002 Misaka Mikoto" },
-    { "id": 3, "pueblo": "003 Killua" }
+    { "id": 3, "pueblo": "003 Killua" },
+    { "id": 4, "pueblo": "004 Alluka" }
   ]
 }
